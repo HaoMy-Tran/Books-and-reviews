@@ -1,4 +1,5 @@
-# Lean Analytics: Use Data to Build a Better Startup Faster <br>
-<i>(updating along with reading progress) </i> <br><br>
-Tags: `book review`, `Business Analytics`, `Data Analysis`,`Business Models`, `Lean`, `performance analysis`
-<br><br>If I could start over, this gem would be one of the first books I’d read at the beginning of my analytics career.
+### 1. Lean Analytics: Use Data to Build a Better Startup Fasterv <i>(Alistair Croll and Benjamin Yoskovitz) </i> <br>
+
+### 2. Thinking in Systems <i>(Donella H. Meadows) </i> <br>
+
+### 3. Bulletproof Problem Solving The One Skill That Changes Everything <i>(Charles Conn, Robert McLean)</i>
